@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Czy walka z myślami działa?"
+title: "Walka z myślami"
 author: "Gabriela Gałuszka"
 tags: ACT
 excerpt_separator: <!--more-->
 ---
-Masz czasem wrażenie, że im bardziej starasz się nie myśleć o czymś, tym mocniej to wraca? Jeśli tak, to jesteś w dobrym towarzystwie – tak działa ludzki umysł. <!--more-->
+Masz czasem wrażenie, że im bardziej starasz się nie myśleć o czymś, tym mocniej to wraca? Jeśli tak, to witaj w klubie – tak działa ludzki umysł. <!--more-->
 
 Spróbuj tego: przez 30 sekund NIE MYŚL o czekoladowych ciastkach.
 
