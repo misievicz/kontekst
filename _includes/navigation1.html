@@ -1,0 +1,14 @@
+<nav>
+  {% for item in site.data.navigation %}
+  <div class="container-links-link">
+    <div class="container-links-link-style gabs" id="link-text">
+      <a href="{{ item.link }}"> 
+        {{ item.name }}
+      </a>
+    </div>
+    <div class="container-links-link-dot gabs" id="link-dot">
+      
+    </div>
+  </div>
+  {% endfor %}
+</nav>

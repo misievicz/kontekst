@@ -1,0 +1,172 @@
+@font-face {
+  font-family: 'Bristol';
+  src: url('/assets/fonts/Bristol.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 800px;
+  width: 80%;
+}
+
+main,
+footer,
+.nav-container {
+  display: block;
+  margin: 0 auto;
+  max-width: 800px;
+  width: 80%;
+}
+
+footer {
+margin-top: 5rem;
+}
+
+.nav {
+  box-shadow: 0 2px 2px -2px $shadow-color;
+  overflow: auto;
+
+  &-container {
+    margin: 1rem auto;
+    position: relative;
+    text-align: center;
+  }
+
+  &-title {
+    @include transition(all .2s ease-out);
+    color: $default-color;
+    font-family: 'Bristol', sans-serif;
+    display: inline-block;
+    margin: 0;
+    padding-right: .2rem;
+
+    &:hover,
+    &:focus {
+      opacity: .6;
+    }
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 2rem 0 0;
+    padding: 0;
+    text-align: center;
+  }
+
+  li {
+    @include transition(all .2s ease-out);
+    color: $default-color;
+    display: inline-block;
+    opacity: .6;
+    padding: 0 2rem 0 0;
+
+    &:last-child {
+      padding-right: 0;
+    }
+
+    &:hover,
+    &:focus {
+      opacity: 1;
+    }
+  }
+
+  a {
+    color: $default-color;
+    font-family: $sans-serif;
+  }
+}
+
+
+@media (min-width: 600px) {
+  .nav {
+    &-container {
+      text-align: left;
+    }
+
+    ul {
+      bottom: 0;
+      position: absolute;
+      right: 0;
+    }
+  }
+}
+
+footer {
+  font-family: $serif-secondary;
+  padding: 2rem 0;
+  text-align: center;
+
+  span {
+    color: $default-color;
+    font-size: .8rem;
+  }
+}
+
+.kontakt-h2 {
+  font-family: 'Quicksand', sans-serif;
+  text-align: left;
+}
+
+.contact-form-container {
+  background-color: #ffffff;
+  padding: 10px 40px 10px 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 500px;
+  text-align: center;
+  margin-top: 2.5rem;
+}
+
+/* Form Groups */
+.form-group {
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+/* Labels */
+label {
+  font-size: 0.8rem;
+  font-family: 'Quicksand', sans-serif;
+  color: #555;
+  margin-bottom: 8px;
+  display: block;
+}
+
+/* Input and Textarea Styling */
+input, textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 0.9rem;
+  font-family: 'Quicksand', sans-serif;
+  color: #333;
+  outline: none;
+  transition: border 0.3s ease;
+}
+
+/* Focus Effect */
+input:focus, textarea:focus {
+  border-color: #007BFF;
+}
+
+/* Submit Button Styling */
+.submit-btn {
+  background-color: #d1a888a9;
+  color: white;
+  padding: 9px 18px;
+  border: none;
+  border-radius: 4px;
+  font-size: 1rem;
+  font-family: 'Quicksand', sans-serif;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+
+}
+
+.submit-btn:hover {
+  background-color: #9e7555a9;
+}
