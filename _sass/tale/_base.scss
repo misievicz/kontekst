@@ -216,6 +216,11 @@ td {
   align-items: center;
   gap: 4rem;
   color: black;
+
+  @media (max-width: 1100px) {
+    width: 100%;
+    flex-direction: column;
+  }
 }
 
 .cennik-container-main,
@@ -229,19 +234,27 @@ td {
 }
 
 .cennik-container-left {
-  max-width: 70%;
-  padding-right: 60px;
+  max-width: 80%;
 }
 
 .cennik-container-right-foto {
   display: inline-block;
   position: relative;
-  width: 380px;
+  max-width: 100%;
+  height: auto;
 }
 
 .cennik-container-right {
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+  max-width: 30%; 
   position: relative;
   display: inline-block;
+  @media (max-width: 1100px) {
+    max-width: 70%;
+    flex-direction: column;
+  }
 }
 
 .cennik-container-right::after {
@@ -253,6 +266,7 @@ td {
   font-size: 2rem;
   color: #333;
   white-space: nowrap;
+
 }
 
 .policy-container-head {
@@ -263,7 +277,6 @@ td {
 .policy-container-main {
   display: flex;
   flex-direction: column;
-  // justify-content: center;
   max-width: 800px;
   text-align: center;
   padding: 1rem;
@@ -301,7 +314,7 @@ td {
   height: 600px;
   background-color: #e1ba9d8c;
   border-radius: 50%;
-  position: absolute;
+  position: fixed;
   top: -10rem;
   right: -150px;
   z-index: -10;
@@ -338,6 +351,7 @@ li::marker {
   justify-content: center;
   margin-top: 1.7rem;
   color: black;
+  
 }
 
 .act-container-main h4 {
@@ -346,21 +360,29 @@ li::marker {
   font-size: 1.3rem;
 }
 
+
 .act-container-main-up,
 .act-container-main-down {
   max-width: 1000px;
   padding: 1.5rem;
   font-family: "Quicksand", sans-serif;
   font-size: 1.2rem;
+  
 }
 
 .act-container-main-up {
   padding-right: 200px;
+  @media (max-width: 650px) {
+    padding: 3rem;
+  }
 }
 
 .act-container-main-down {
   padding-left: 200px;
   text-align: end;
+  @media (max-width: 650px) {
+    padding: 3rem;
+  }
 }
 
 .powrot {
