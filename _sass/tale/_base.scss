@@ -374,6 +374,7 @@ li::marker {
   padding-right: 200px;
   @media (max-width: 650px) {
     padding: 3rem;
+    font-size: 1.1rem;
   }
 }
 
@@ -381,7 +382,8 @@ li::marker {
   padding-left: 200px;
   text-align: end;
   @media (max-width: 650px) {
-    padding: 3rem;
+    padding: 0 3rem 3rem 3rem;
+    font-size: 1.1rem;
   }
 }
 
