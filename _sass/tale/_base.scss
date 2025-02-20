@@ -124,7 +124,7 @@ td {
 }
 
 .container-links-link:last-child a {
-  color: rgb(219, 166, 126);
+  color: rgb(221, 158, 111);
 }
 
 .container-links-link-dot {
@@ -156,8 +156,8 @@ td {
 
 .about-container-main {
   // height: 100vh;
-  margin-top: 34px;
-  margin-bottom: 50px;
+  margin-top: 25px;
+  margin-bottom: 30px;
   max-width: 1400px;
   display: flex;
   flex-direction: row;
@@ -177,7 +177,7 @@ td {
 }
 
 .about-container-left {
-  min-width: 550px;
+  min-width: 510px;
   padding-right: 60px;
 }
 
@@ -209,7 +209,25 @@ td {
 }
 
 .cennik-container-right-foto {
+  display: inline-block;
+  position: relative;
   width: 380px;
+}
+
+.cennik-container-right {
+  position: relative;
+  display: inline-block;
+}
+
+.cennik-container-right::after {
+  content: "Do zobaczenia online <3";
+  position: absolute;
+  left: 50%;
+  top: 100%;
+  transform: translateX(-50%);
+  font-size: 2rem;
+  color: #333;
+  white-space: nowrap;
 }
 
 .policy-container-head {
@@ -293,8 +311,7 @@ li::marker {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  margin-top: 5rem;
-  gap: 40px;
+  margin-top: 1.7rem;
   color: black;
 }
 
@@ -326,7 +343,7 @@ li::marker {
   justify-content: center;
   font-family: "Quicksand", sans-serif;
   margin-bottom: 2rem;
-  margin-top: 2rem;
+  margin-top: 0.5rem;
 }
 
 .logo-blog {
