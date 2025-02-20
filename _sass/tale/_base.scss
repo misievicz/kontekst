@@ -89,9 +89,13 @@ td {
   align-items: center;
   justify-content: center;
 
-  @media (max-width: 626px) {
-    height: 50dvh;
-    margin-top: 8rem;
+  // @media (max-width: 626px) {
+  //   height: 50dvh;
+  //   margin-top: 8rem;
+  // }
+
+  @media (max-width: 456px) {
+    height: 95dvh;
   }
 }
 .container-slogan {
@@ -100,8 +104,16 @@ td {
   font-size: 2rem;
   font-family: "Quicksand", serif;
   letter-spacing: 0.2px;
-  @media (max-width: 626px) {
-    font-size: 0.7rem;
+
+  @media (max-width: 800px) {
+    font-size: 1.5rem;
+  }
+
+  @media (max-width: 456px) {
+    font-size: 1.1rem;
+  }
+  @media (max-width: 400px) {
+    font-size: 1rem;
   }
 }
 
@@ -152,6 +164,10 @@ td {
   width: 460px;
   animation: breathing 8s infinite ease-in-out;
   height: auto;
+
+  @media (max-width: 456px) {
+    margin-top: -2rem;
+  }
 }
 
 .about-container-main {
