@@ -369,16 +369,15 @@ li::marker {
 .act-container-main-up,
 .act-container-main-down {
   max-width: 1000px;
-  padding: 1.5rem;
+  padding: 0.5rem;
   font-family: "Quicksand", sans-serif;
   font-size: 1.2rem;
-  
 }
 
 .act-container-main-up {
   padding-right: 200px;
   @media (max-width: 650px) {
-    padding: 3rem;
+    padding: 2rem;
     font-size: 1.1rem;
   }
 }
@@ -393,8 +392,8 @@ li::marker {
 }
 
 .act-call-to-action {
-  margin-top: 4rem;
-  margin-bottom: -1rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
 }
 
 .powrot {

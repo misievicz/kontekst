@@ -9,31 +9,37 @@ sticky: true
 hidden: true
 ---
 
+![Alt text](../assets/images/posr4.jpg)
+
 Nazwę mojego gabinetu wybrałam nieprzypadkowo. W terapii Akceptacji i Zaangażowania (ACT), w której pracuję, oraz w kontekstualnych naukach o zachowaniu kluczowe jest spojrzenie na człowieka w całości.
 <!--more-->
 
-Nie analizujemy wyłącznie jego myśli, emocji czy zachowań w oderwaniu – patrzymy na nie w kontekście, w którym się pojawiają. <b>Bo to, co czujemy i myślimy, nie istnieje w próżni.</b> Jesteśmy kształtowani przez nasze wcześniejsze doświadczenia, sytuację, w której się znajdujemy, oraz wartości, które nadają sens naszemu życiu.
+Dlaczego „Kontekst”?
 
-<b>Nie ma „złych” i „dobrych” zachowań – wszystko zależy od kontekstu.</b>
+Nazwę mojego gabinetu wybrałam nieprzypadkowo. W terapii Akceptacji i Zaangażowania (ACT), w której pracuję, oraz w kontekstualnych naukach o zachowaniu kluczowe jest spojrzenie na człowieka w całości.
 
-ACT nie skupia się na tym, żeby „pozbyć się” trudnych emocji czy zmienić myślenie na bardziej pozytywne. <b>Zamiast oceniać nasze reakcje jako dobre czy złe, warto zadać sobie inne pytanie:</b>
+Nie analizujemy wyłącznie jego myśli, emocji czy zachowań w oderwaniu – patrzymy na nie w kontekście, w którym się pojawiają. Bo to, co czujemy i myślimy, nie istnieje w próżni. Jesteśmy kształtowani przez nasze wcześniejsze doświadczenia, sytuację, w której się znajdujemy, oraz wartości, które nadają sens naszemu życiu.
 
-➡️ <i>Czy to, jak działam w tym momencie, pomaga mi żyć zgodnie z tym, co jest dla mnie ważne?</i>
+Nie ma „złych” i „dobrych” zachowań – wszystko zależy od kontekstu
+
+ACT nie skupia się na tym, żeby „pozbyć się” trudnych emocji czy zmienić myślenie na bardziej pozytywne. Zamiast oceniać nasze reakcje jako dobre czy złe, warto zadać sobie inne pytanie:
+
+Czy to, jak działam w tym momencie, pomaga mi żyć zgodnie z tym, co jest dla mnie ważne?
 
 Bo ta sama emocja czy myśl może mieć zupełnie inne znaczenie w zależności od okoliczności. Strach może nas paraliżować albo motywować do działania. Smutek może nas przytłaczać albo pomagać nam dostrzec, co jest dla nas istotne.
 
-<b>Rzeka nie walczy z przeszkodami – płynie mimo nich.</b>
+Rzeka nie walczy z przeszkodami – płynie mimo nich
 
-W terapii ACT nie uczymy się unikać trudności – uczymy się, jak <b>nadal iść w kierunku tego, co ważne</b>, nawet jeśli na naszej drodze pojawiają się przeszkody.
+W terapii ACT nie uczymy się unikać trudności – uczymy się, jak nadal iść w kierunku tego, co ważne, nawet jeśli na naszej drodze pojawiają się przeszkody.
 
-To trochę jak rzeka, która płynie swoim nurtem. Na swojej drodze napotyka zawalone drzewa, ostre zakręty, a czasem nawet toksyczne odpady – ale <b>nie zatrzymuje się, nie zawraca, nie walczy z przeszkodami, na które nie ma wpływu</b>. Po prostu płynie dalej.
+To trochę jak rzeka, która płynie swoim nurtem. Na swojej drodze napotyka zawalone drzewa, ostre zakręty, a czasem nawet toksyczne odpady – ale nie zatrzymuje się, nie zawraca, nie walczy z przeszkodami, na które nie ma wpływu. Po prostu płynie dalej.
 
 W życiu też nie mamy kontroli nad wszystkim. Możemy jednak nauczyć się dostrzegać kontekst naszych myśli, emocji i działań – i podejmować świadome decyzje o tym, w jakim kierunku chcemy płynąć.
 
-<b>Dlatego „Kontekst”</b>
+Dlatego „Kontekst”
 
-W moim gabinecie tworzę przestrzeń do uważnego przyjrzenia się temu, co dla Ciebie ważne, i do nauki, <b>jak żyć pełniej – pomimo trudności.</b>
+W moim gabinecie tworzę przestrzeń do uważnego przyjrzenia się temu, co dla Ciebie ważne, i do nauki, jak żyć pełniej – pomimo trudności.
 
-Bo to nie przeszkody definiują nasze życie, ale <b>to, jak na nie reagujemy i jakie wybory podejmujemy w ich obliczu.</b>
+Bo to nie przeszkody definiują nasze życie, ale to, jak na nie reagujemy i jakie wybory podejmujemy w ich obliczu.
 
-<b>W jakim kierunku Ty chcesz płynąć?</b>
+W jakim kierunku Ty chcesz płynąć?

@@ -185,3 +185,27 @@ input:focus, textarea:focus {
     display: inline-block;
   }
 }
+
+.cta-button {
+  display: inline-block;
+  padding: 16px 24px;
+  font-size: 18px;
+  font-weight: bold;
+  text-decoration: none;
+  color: white;
+  background: #d1a888e7;
+  border-radius: 6px;
+  transition: background-color 0.3s ease;
+  margin-top: 3rem;
+}
+
+.cta-button::after {
+  content: "➜"; 
+  font-size: 18px;
+  margin-left: 10px;
+  transition: margin-left 0.3s ease-in-out;
+}
+
+.cta-button:hover {
+  background: #9e7555a9;
+}
