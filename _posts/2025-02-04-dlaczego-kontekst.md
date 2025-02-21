@@ -13,11 +13,6 @@ hidden: true
 
 Nazwę mojego gabinetu wybrałam nieprzypadkowo. W terapii Akceptacji i Zaangażowania (ACT), w której pracuję, oraz w kontekstualnych naukach o zachowaniu kluczowe jest spojrzenie na człowieka w całości.
 <!--more-->
-
-Dlaczego „Kontekst”?
-
-Nazwę mojego gabinetu wybrałam nieprzypadkowo. W terapii Akceptacji i Zaangażowania (ACT), w której pracuję, oraz w kontekstualnych naukach o zachowaniu kluczowe jest spojrzenie na człowieka w całości.
-
 Nie analizujemy wyłącznie jego myśli, emocji czy zachowań w oderwaniu – patrzymy na nie w kontekście, w którym się pojawiają. Bo to, co czujemy i myślimy, nie istnieje w próżni. Jesteśmy kształtowani przez nasze wcześniejsze doświadczenia, sytuację, w której się znajdujemy, oraz wartości, które nadają sens naszemu życiu.
 
 Nie ma „złych” i „dobrych” zachowań – wszystko zależy od kontekstu
