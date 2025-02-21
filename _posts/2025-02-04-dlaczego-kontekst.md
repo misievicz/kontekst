@@ -17,7 +17,7 @@ Ta sama emocja czy myśl może mieć zupełnie inne znaczenie w zależnośc
 
 <b>Rzeka nie kształtuje swojego nurtu sama – wpływa na nią to, co ją otacza</b>
 
-W terapii ACT nie uczymy się unikać trudności – uczymy się, jak nadal iść w kierunku tego, co ważne, nawet jeśli na naszej drodze pojawiają się przeszkody.
+W terapii ACT nie uczymy się unikać trudności – uczymy się jak nadal iść w kierunku tego co ważne, nawet jeśli na naszej drodze pojawiają się przeszkody.
 
 To trochę jak rzeka, która płynie swoim nurtem. Na swojej drodze napotyka zawalone drzewa, ostre zakręty, a czasem nawet toksyczne odpady – ale nie zatrzymuje się, nie zawraca, nie walczy z przeszkodami, na które nie ma wpływu. Jednak rzeka nie kształtuje swojego nurtu sama – wpływa na nią to, co ją otacza: ukształtowanie terenu, pogoda, rodzaj podłoża. Tak samo nasze doświadczenia są kształtowane przez okoliczności, w których się znajdujemy. W ACT nie tylko uczymy się płynąć mimo przeszkód, ale też dostrzegać cały krajobraz – bo to, co nas spotyka, ma sens dopiero w odniesieniu do większej całości.
 
@@ -27,4 +27,4 @@ W życiu też nie mamy kontroli nad wszystkim. Możemy jednak nauczyć się
 
 Ponieważ wiem, że każdy człowiek ma swoją indywidualną historię i swój krajobraz, który kształtuje jego drogę. Terapia to przestrzeń, w której można przyjrzeć się temu krajobrazowi z ciekawością i bez oceniania, by lepiej zrozumieć siebie i świadomie wybierać kierunek, w którym chce się podążać.
 
-Bo to nie przeszkody definiują życie, ale to, jak się na nie reaguje i jakie wybory podejmuje się w ich obliczu.
+Bo to nie przeszkody definiują życie, ale to, jak się na nie reaguje i jakie wybory podejmuje się w ich obliczu.
