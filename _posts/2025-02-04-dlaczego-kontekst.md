@@ -15,7 +15,7 @@ Nazwę mojego gabinetu wybrałam nieprzypadkowo. W terapii Akceptacji i Zaangaz
 
 Ta sama emocja czy myśl może mieć zupełnie inne znaczenie w zależności od kontekstu. Strach może nas paraliżować albo motywować do działania. Smutek może nas przytłaczać albo pomagać nam dostrzec, co jest dla nas istotne.
 
-Rzeka nie kształtuje swojego nurtu sama – wpływa na nią to, co ją otacza
+<b>Rzeka nie kształtuje swojego nurtu sama – wpływa na nią to, co ją otacza</b>
 
 W terapii ACT nie uczymy się unikać trudności – uczymy się, jak nadal iść w kierunku tego, co ważne, nawet jeśli na naszej drodze pojawiają się przeszkody.
 
@@ -23,8 +23,8 @@ To trochę jak rzeka, która płynie swoim nurtem. Na swojej drodze napotyka z
 
 W życiu też nie mamy kontroli nad wszystkim. Możemy jednak nauczyć się dostrzegać kontekst naszych myśli, emocji i działań – i podejmować świadome decyzje o tym, w jakim kierunku chcemy płynąć.
 
-Dlatego „Kontekst”
+<b>Dlatego „Kontekst”</b>
 
 Ponieważ wiem, że każdy człowiek ma swoją indywidualną historię i swój krajobraz, który kształtuje jego drogę. Terapia to przestrzeń, w której można przyjrzeć się temu krajobrazowi z ciekawością i bez oceniania, by lepiej zrozumieć siebie i świadomie wybierać kierunek, w którym chce się podążać.
 
-Bo to nie przeszkody definiują życie, ale to, jak się na nie reaguje i jakie wybory podejmuje się w ich obliczu
+Bo to nie przeszkody definiują życie, ale to, jak się na nie reaguje i jakie wybory podejmuje się w ich obliczu.
