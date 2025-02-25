@@ -15,7 +15,7 @@ Nazwę mojego gabinetu wybrałam nieprzypadkowo. W terapii Akceptacji i Zaangaz
 
 Ta sama emocja czy myśl może mieć zupełnie inne znaczenie w zależności od kontekstu. Strach może nas paraliżować albo motywować do działania. Smutek może nas przytłaczać albo pomagać nam dostrzec, co jest dla nas istotne.
 
-<b>Rzeka nie kształtuje swojego nurtu sama – wpływa na nią to, co ją otacza</b>
+<b>Rzeka nie kształtuje swojego nurtu sama – wpływa na nią to, co ją otacza.</b>
 
 W terapii ACT nie uczymy się unikać trudności – uczymy się jak nadal iść w kierunku tego co ważne, nawet jeśli na naszej drodze pojawiają się przeszkody.
 
