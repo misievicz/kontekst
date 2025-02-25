@@ -16,7 +16,7 @@ Ale Kelly Wilson, współtwórca terapii ACT, mówi o tym inaczej:
 
 Nawet jeśli w tej chwili nie masz jasności to nie znaczy, że jej nie znajdziesz. Samo to, że szukasz, zastanawiasz się, próbujesz to już ma znaczenie :)
 
-#### Wartości to nie cele
+<b>Wartości to nie cele</b>
 
 W ACT wartości są jak kompas. Nie są listą rzeczy do osiągnięcia, ale raczej kierunkiem, w którym chcemy podążać. Cel można odhaczyć i uznać za „zrealizowany”, a wartości są czymś co możemy wyrażać każdego dnia np. w naszych wyborach, działaniach, słowach.
 
