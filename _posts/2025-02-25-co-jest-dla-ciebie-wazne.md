@@ -12,7 +12,7 @@ Czasem, gdy ktoś zadaje pytanie: „Co jest dla Ciebie naprawdę ważne?” 
 
 Ale Kelly Wilson, współtwórca terapii ACT, mówi o tym inaczej:
 
-„Jeśli ktoś nie wie, co jest dla niego ważne, to może samo pragnienie wiedzy o tym jest już wartością.”
+„Jeśli ktoś nie wie, co jest dla niego ważne, to może samo pragnienie wiedzy o tym jest już wartością.”
 
 Nawet jeśli w tej chwili nie masz jasności to nie znaczy, że jej nie znajdziesz. Samo to, że szukasz, zastanawiasz się, próbujesz to już ma znaczenie :)
 
@@ -25,9 +25,9 @@ Jeśli wartością jest życzliwość, to nie znaczy, że w którymś m
 Jak odkryć swoje wartości?
 
 Czasem pytanie „co jest dla mnie ważne?” wydaje się zbyt abstrakcyjne. Wtedy można spróbować inaczej:
-	•	Na kim Ci zależy? Kogo nie chciałbyś zawieść? Jaką osobą chcesz być dla bliskich?
-	•	Kiedy czujesz, że Twoje życie ma sens? Co sprawia, że czujesz się bardziej „sobą”?
-	•	Czego żałował_byś na końcu życia? Czego chciał_byś mieć więcej, a co, gdyby zniknęło, nie zrobiłoby większej różnicy?
-	•	Co podziwiasz w innych ludziach? Jakie cechy czy postawy są dla Ciebie inspirujące?
+ - Na kim Ci zależy? Kogo nie chciałbyś zawieść? Jaką osobą chcesz być dla bliskich?
+ - Kiedy czujesz, że Twoje życie ma sens? Co sprawia, że czujesz się bardziej „sobą”?
+ - Czego żałowałbyś na końcu życia? Czego chciałbyś mieć więcej, a co, gdyby zniknęło, nie zrobiłoby większej różnicy?
+ - Co podziwiasz w innych ludziach? Jakie cechy czy postawy są dla Ciebie inspirujące?
 
 Wartości nie są czymś, co trzeba znaleźć raz na zawsze. One mogą się zmieniać, dojrzewać, ewoluować razem z nami. To, co jest ważne dziś, może wyglądać inaczej za kilka lat i to jest w porządku :)
