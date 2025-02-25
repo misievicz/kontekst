@@ -6,6 +6,8 @@ tags: ACT
 excerpt_separator: <!--more-->
 ---
 
+![Alt text](../assets/images/post6.jpg)
+
 Czasem, gdy ktoś zadaje pytanie: „Co jest dla Ciebie naprawdę ważne?” zapada cisza. Bo skąd mamy to wiedzieć? <!--more--> Skąd mamy mieć gotową listę wartości, którymi chcemy kierować się w życiu? Może nigdy się nad tym nie zastanawialiśmy. Może tak długo podążaliśmy za tym, co „powinno” być ważne, co „ktoś nam wskazał za ważne”, że przestaliśmy słyszeć swój własny głos.
 
 Ale Kelly Wilson, współtwórca terapii ACT, mówi o tym inaczej:
