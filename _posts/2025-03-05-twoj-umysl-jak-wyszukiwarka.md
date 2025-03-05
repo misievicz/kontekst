@@ -8,9 +8,9 @@ excerpt_separator: <!--more-->
 
 ![Alt text](../assets/images/post7.jpg)
 
-Wyobraź sobie, że Twój umysł działa jak algorytm wyszukiwarki internetowej. <!--more--> Kiedy wpisujesz w Google jakieś hasło, np. „Jak schudnąć?”, to pierwsze wyniki, które dostajesz, niekoniecznie są najbardziej rzetelne i często są po prostu tymi, które były najczęściej klikane przez innych albo są sponsorowane.
+Wyobraź sobie, że Twój umysł działa jak algorytm wyszukiwarki internetowej. Kiedy wpisujesz w Google jakieś hasło, np. „Jak schudnąć?”, to pierwsze wyniki, które dostajesz, niekoniecznie są najbardziej rzetelne i często są po prostu tymi, które były najczęściej klikane przez innych albo są sponsorowane. 
 
-Tak samo działa nasz mózg. Nie „wyszukuje” myśli w oparciu o prawdę, ale o to, co było często powtarzane w naszym otoczeniu. Jeśli przez lata słyszałeś, że „otyłość = brak atrakcyjności”, to gdy przybierzesz na wadze, Twój umysł automatycznie „wyrzuci” myśl: „Jestem nieatrakcyjny” – nie dlatego, że to obiektywna prawda, ale dlatego, że ten schemat myślowy został powtarzany tak często, że znajduje się na „pierwszej stronie wyników”.
+Tak samo działa nasz mózg. Nie „wyszukuje” myśli w oparciu o prawdę, ale o to, co było często powtarzane w naszym otoczeniu. <!--more-->Jeśli przez lata słyszałeś, że „otyłość = brak atrakcyjności”, to gdy przybierzesz na wadze, Twój umysł automatycznie „wyrzuci” myśl: „Jestem nieatrakcyjny” – nie dlatego, że to obiektywna prawda, ale dlatego, że ten schemat myślowy został powtarzany tak często, że znajduje się na „pierwszej stronie wyników”.
 
 Podobnie, jeśli w społeczeństwie krąży przekonanie, że „Teraz wszyscy wymyślają sobie ADHD, a tak naprawdę to wszystko z lenistwa”, to gdy zauważysz u siebie jakieś trudności z koncentracją uwagi, nadpobudliwością i dostaniesz diagnozę ADHD, a i tak automatycznie możesz zacząć myśleć: „Jestem po prostu leniwy, to tylko wymysły, pewnie nie mam żadnego ADHD” – bo tak działa mechanizm skojarzeń.
 
