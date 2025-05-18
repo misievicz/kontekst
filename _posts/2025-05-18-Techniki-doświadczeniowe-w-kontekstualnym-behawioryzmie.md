@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 
 W pracy terapeutycznej opartej na kontekstualnym behawioryzmie (CBT trzeciej fali, w tym ACT – Terapia Akceptacji i Zaangażowania) bardzo często sięgam po techniki doświadczeniowe. Choć brzmią dość ogólnie, dla mnie są jednym z najbardziej skutecznych sposobów na to, aby klienci nie tylko rozumieli, ale przede wszystkim doświadczali zmiany. <!--more-->
 
-<b>Czym są techniki doświadczeniowe?/b>
+<b>Czym są techniki doświadczeniowe?</b>
 
 Najprościej mówiąc, to takie formy pracy, które angażują klienta nie tylko poznawczo, ale również emocjonalnie i cielesnie. W przeciwieństwie do klasycznego dialogu czy psychoedukacji, techniki doświadczeniowe pozwalają klientowi wejść w bezpośredni kontakt z jego wewnętrznym światem – emocjami, przekonaniami, wartościami czy unikalnym kontekstem życiowym – tu i teraz.
 
