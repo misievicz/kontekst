@@ -6,7 +6,7 @@ tags: ACT
 excerpt_separator: <!--more-->
 ---
 
-![Alt text](../assets/images/post9.jpg)
+![Alt text](../assets/images/post10.jpg)
 
 Często jesteśmy dla siebie najsurowszymi krytykami. Wewnętrzny głos, który podkreśla nasze błędy, wątpliwości i niedoskonałości, może stać się źródłem cierpienia i blokadą w rozwoju. W kontekstualnym behawioryzmie, szczególnie w ramach terapii akceptacji i zaangażowania (ACT), duży nacisk kładzie się na zmianę relacji z własnymi myślami i emocjami. <!--more-->
 Jednym z kluczowych narzędzi w tej pracy jest samo współczucie (self-compassion) – umiejętność łagodnego i wyrozumiałego traktowania siebie, zwłaszcza w trudnych momentach.
