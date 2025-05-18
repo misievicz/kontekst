@@ -199,7 +199,7 @@ td {
 .about-container-left {
   min-width: 510px;
   padding-right: 60px;
-  border-radius: 20px;
+  
   @media (max-width: 1200px) {
     max-width: 800px;
     min-width: 0;
@@ -210,6 +210,7 @@ td {
 .about-container-left-photo {
   max-width: 100%;
   height: auto;
+  border-radius: 20px;
 }
 
 .cennik-container-main {
