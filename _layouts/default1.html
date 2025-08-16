@@ -2,29 +2,43 @@
 ---
 <!doctype html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="{{ site.baseurl }}/assets/main.css">
-    <link rel="icon" type="image/png" href="{{ site.baseurl }}/assets/favicon.ico">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Quicksand:wght@300..700&display=swap" rel="stylesheet">
-  </head>
-  <body>
-    
-    {{ content }}
-    <main class="container-main">
-      <div class="container-logo"><img src="{{ site.baseurl }}/assets/images/1.png" alt="" class="container-logo-logo"></div>
-      <div class="container-slogan-links">
-        <div class="container-slogan">Psychoterapia Akceptacji i Zaangażowania</div>
-        <div class="container-links">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/main.css">
+  <link rel="icon" type="image/png" href="{{ site.baseurl }}/assets/favicon.ico">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Quicksand:wght@300..700&display=swap"
+    rel="stylesheet">
+</head>
+
+<body>
+
+  {{ content }}
+  <main class="container-main">
+    <div class="container-logo"><img src="{{ site.baseurl }}/assets/images/1.png" alt="" class="container-logo-logo">
+    </div>
+    <div class="container-slogan-links">
+      <div class="container-slogan">Psychoterapia Akceptacji i Zaangażowania</div>
+      <div class="container-links">
         {% include navigation1.html %}
-        </div>
       </div>
-      
-    </main>
-    {% include footer2.html %}
-  </body>
+    </div>
+    
+  </main>
+  <div class="container-social">
+      <a href="https://www.instagram.com/galuszkagabriela" target="_blank" rel="noopener">
+        <img src="{{ site.baseurl }}/assets/images/instagram.png" alt="Instagram" class="social-icon">
+      </a>
+      <a href="https://www.youtube.com/@kontekst.gabrielagaluszka" target="_blank" rel="noopener">
+        <img src="{{ site.baseurl }}/assets/images/youtube.png" alt="YouTube" class="social-icon">
+      </a>
+    </div>
+  {% include footer2.html %}
+</body>
+
 </html>

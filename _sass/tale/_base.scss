@@ -409,3 +409,19 @@ li::marker {
   width: 64px;
   height: auto;
 }
+
+.container-social {
+  margin-top: 0px;              
+  text-align: center;            
+}
+
+.container-social a {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.social-icon {
+  width: 40px;                 
+  height: auto;
+  filter: brightness(0) saturate(100%) invert(70%) sepia(20%) saturate(450%) hue-rotate(330deg) brightness(95%) contrast(100%);
+}
