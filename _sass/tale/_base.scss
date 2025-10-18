@@ -132,14 +132,14 @@ td {
 }
 
 .container-links-link:last-child a {
-  color: rgb(221, 158, 111);
+  color: #f878cd;
 }
 
 .container-links-link-dot {
   width: 9px;
   height: 9px;
   border-radius: 50%;
-  background-color: #e1bb9d;
+  background-color: #f878cd;
 
   @media (max-width: 456px) {
     width: 7px;
