@@ -139,7 +139,12 @@ td {
   width: 9px;
   height: 9px;
   border-radius: 50%;
-  background-color: #f878cd;
+  background-image: url('../../assets/images/Czuły\ Act\ Logo-2.png'); /* replace with your icon path */
+    background-size: cover;      /* ensures icon fills the element */
+    background-position: center; /* centers the icon */
+    background-repeat: no-repeat;
+    cursor: pointer; 
+  
 
   @media (max-width: 456px) {
     width: 7px;
