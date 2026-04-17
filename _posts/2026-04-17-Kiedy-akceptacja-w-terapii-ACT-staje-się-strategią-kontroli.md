@@ -12,7 +12,7 @@ excerpt_separator: <!--more-->
 
 Terapia ACT (Acceptance and Commitment Therapy) uczy nas jednego z najbardziej kontrintuicyjnych podejść do ludzkiego cierpienia: zamiast walczyć z trudnymi emocjami, mamy zrobić dla nich miejsce. Akceptacja, obecność i gotowość do przeżywania tego, co trudne, stają się fundamentem zmiany. Problem zaczyna się wtedy, gdy… zaczynamy używać akceptacji po to, żeby przestać czuć. Brzmi paradoksalnie? Właśnie w tym tkwi sedno.
 
-Akceptacja jako doświadczenie vs. akceptacja jako narzędzie
+### Akceptacja jako doświadczenie vs. akceptacja jako narzędzie
 
 W swojej istocie akceptacja w ACT nie jest techniką służącą redukcji dyskomfortu. To postawa – świadome otwarcie się na doświadczenie takim, jakie jest, bez prób jego zmiany.
 
@@ -30,7 +30,7 @@ Jesteśmy biologicznie zaprogramowani do unikania bólu i maksymalizowania przyj
 
 ACT nie usuwa tej tendencji. Ono uczy ją zauważać. Dlatego moment, w którym zaczynasz myśleć: „Robię to dobrze, więc powinienem już czuć się lepiej” jest często sygnałem, że akceptacja została „przechwycona” przez mechanizm kontroli.
 
-Jak rozpoznać, że akceptacja stała się kontrolą? Kilka typowych sygnałów:
+### Jak rozpoznać, że akceptacja stała się kontrolą? Kilka typowych sygnałów:
 
 - Warunkowość – jesteś gotów doświadczać emocji tylko pod warunkiem, że coś się zmieni.
 - Niecierpliwość – pojawia się frustracja, że „to nie działa”.
@@ -39,7 +39,7 @@ Jak rozpoznać, że akceptacja stała się kontrolą? Kilka typowych sygnałów:
 
 W skrócie: nadal jesteś w relacji walki, tylko w bardziej wyrafinowanej formie ;>
 
- Czym w takim razie jest „prawdziwa” akceptacja?
+### Czym w takim razie jest „prawdziwa” akceptacja?
 
 Akceptacja w duchu ACT to gotowość do kontaktu z doświadczeniem bez gwarancji, że stanie się ono przyjemniejsze. To oznacza, że: 
 
@@ -49,7 +49,7 @@ Akceptacja w duchu ACT to gotowość do kontaktu z doświadczeniem bez gwarancji
 
 Paradoks polega na tym, że kiedy przestajesz próbować kontrolować swoje doświadczenie, często ono rzeczywiście się zmienia. Ale to efekt uboczny - nie cel.
 
-Jak wrócić na właściwy tor?
+### Jak wrócić na właściwy tor?
 
 Jeśli zauważysz, że używasz akceptacji jako strategii kontroli, nie oznacza to porażki.
 To… piękny moment praktyki. Samo zauważenie będzie już dobrym kierunkiem :>
