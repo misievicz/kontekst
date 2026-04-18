@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Poranne ja, wieczorne ja"
+title: "Poranne ja, wieczorne ja - gdzie leży prawda i jak zmienić życie „na lepsze”"
 author: "Gabriela Gałuszka"
 tags: ACT
 excerpt_separator: <!--more-->
@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 
 
 
-Wyobraźmy sobie tę scenę: jest wieczór. Siedzimy z kubkiem herbaty (albo – bądźmy szczerzy – drugim kubkiem kawy), patrzymy w dal i dochodzimy do wniosku, że od jutra wszystko będzie inaczej. Wstaniemy wcześniej. Zrobimy jogę. Pomedytujemy. Napiszemy trzy strony journalingu. Zjemy śniadanie bogate w białko, błonnik i sens życia. <!--more-->
+Wyobraźmy sobie tę scenę: jest wieczór. Siedzimy z kubkiem herbaty, patrzymy w dal i dochodzimy do wniosku, że od jutra wszystko będzie inaczej. Wstaniemy wcześniej. Zrobimy jogę. Pomedytujemy. Napiszemy trzy strony journalingu. Zjemy śniadanie bogate w białko, błonnik i sens życia. <!--more-->
 
 A potem przychodzi jutro. Budzik dzwoni. My go wyłączamy. A pół godziny później – przewijamy telefon. Godzinę później – pijemy kawę na pusty żołądek, a potem jeszcze kolejną i zastanawiamy się, gdzie się podziała ta osoba z wczorajszego wieczoru, która miała wszystko tak dobrze poukładane.
 

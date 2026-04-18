@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 
 
 
-Terapia ACT (Acceptance and Commitment Therapy) uczy nas jednego z najbardziej kontrintuicyjnych podejść do ludzkiego cierpienia: zamiast walczyć z trudnymi emocjami, mamy zrobić dla nich miejsce. Akceptacja, obecność i gotowość do przeżywania tego, co trudne, stają się fundamentem zmiany. Problem zaczyna się wtedy, gdy… zaczynamy używać akceptacji po to, żeby przestać czuć. Brzmi paradoksalnie? Właśnie w tym tkwi sedno.
+Terapia ACT uczy nas jednego z najbardziej kontrintuicyjnych podejść do ludzkiego cierpienia: zamiast walczyć z trudnymi emocjami, mamy zrobić dla nich miejsce. Akceptacja, obecność i gotowość do przeżywania tego, co trudne, stają się fundamentem zmiany. Problem zaczyna się wtedy, gdy… zaczynamy używać akceptacji po to, żeby przestać czuć. Brzmi paradoksalnie? Właśnie w tym tkwi sedno.
 <!--more-->
 ### Akceptacja jako doświadczenie vs. akceptacja jako narzędzie
 
