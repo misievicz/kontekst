@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Poranne ja, wieczorrne ja"
+title: "Poranne ja, wieczorne ja"
 author: "Gabriela Gałuszka"
 tags: ACT
 excerpt_separator: <!--more-->
